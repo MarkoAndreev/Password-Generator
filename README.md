@@ -23,7 +23,7 @@ THEN the password is either displayed in an alert or written to the page
 ## Video of Website Functionality
 The following video shows the web application's appearance and functionality:
 
-![video of how website works](./assets/images/video1813698263.mp4)
+![video of how website works](./assets/images/homework3.mp4)
 
 
 
